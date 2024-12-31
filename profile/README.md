@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a place for me to keep static websites that I work on! I have 3 simple websites right now!
+This is a place for me to keep static websites that I work on! I have 4 simple websites right now!
 
 ### Value Sorter
 This is a website that helps you discover your values! This website was generated for my wife, who is a therapist, and finds this tool useful to use with her remote clients. 
@@ -20,6 +20,12 @@ Based on the tabletop RPG Goblin Quest! You join a room with other players, and 
 It uses a backend of AWS. The infrastructure for it is kept in a private repo. 
 
 https://archereon.github.io/goblin-quest/
+
+### Empowered Future Counseling
+
+My wife's old website: 
+
+https://archereon.github.io/empoweredfuturecounseling/
 
 
 <!--
