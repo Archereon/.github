@@ -19,7 +19,7 @@ Based on the tabletop RPG Goblin Quest! You join a room with other players, and 
 
 It uses a backend of AWS. The infrastructure for it is kept in a private repo. 
 
-https://archereon.github.io/goblin-quest-website/
+https://archereon.github.io/goblin-quest/
 
 
 <!--
